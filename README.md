@@ -256,13 +256,10 @@ UI/UX Product Thinking    ████████████████░░
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NguyenTruongNgocHan/NguyenTruongNgocHan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/NguyenTruongNgocHan/NguyenTruongNgocHan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> To enable the snake animation, create `.github/workflows/snake.yml` in your profile repository. See the setup note at the bottom of this README.
 
 ---
 
