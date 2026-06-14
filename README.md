@@ -248,11 +248,9 @@ UI/UX Product Thinking    ████████████████░░
 
 ## 🏆 GitHub Trophy
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NguyenTruongNgocHan&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenTruongNgocHan&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -289,7 +287,7 @@ This tells a clean story: **Backend Realtime → Auth → Blockchain → Full-st
 
 [![Email](https://img.shields.io/badge/Email-nghanna19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nghanna19@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NguyenTruongNgocHan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTruongNgocHan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Update%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Update%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngochan19042005/)
 
 </div>
 
