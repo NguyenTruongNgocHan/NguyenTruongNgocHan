@@ -1,358 +1,199 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,50:7c3aed,100:0ea5e9&height=220&section=header&text=Nguyen%20Truong%20Ngoc%20Han&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20Mobile%20Developer%20%E2%80%A2%20Blockchain%20Enthusiast&descAlignY=58&descSize=16" />
+# Nguyen Truong Ngoc Han
 
-# Hi, I'm Nguyen Truong Ngoc Han 👋
+### Software Engineering Student @ UIT — VNU-HCM
 
-### Software Engineering Student @ UIT - VNUHCM  
-### Building production-minded apps with Backend, Mobile and Blockchain
+**Full-stack & Backend Development • Real-time Systems • Software Architecture**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=850&lines=NestJS+%7C+Flutter+%7C+PostgreSQL+%7C+Supabase;Realtime+Systems+%7C+WebSocket+%7C+Redis;Solidity+%7C+Smart+Contracts+%7C+Blockchain;Turning+academic+projects+into+real+products" alt="Typing SVG" />
+Building software from requirements and system design through implementation, testing, and deployment.
 
-<br />
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ngochan19042005-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ngochan19042005/)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenTruongNgocHan-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/NguyenTruongNgocHan)
+[![PulseLink](https://img.shields.io/badge/Live-PulseLink-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://pulselink-iota.vercel.app)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```ts
-const hanna = {
-  university: "University of Information Technology - VNUHCM",
-  role: "Software Engineering Student",
-  mainStack: ["NestJS", "Flutter", "PostgreSQL", "Supabase", "Solidity"],
-  interests: [
-    "Backend Systems",
-    "Mobile Applications",
-    "Blockchain Applications",
-    "Realtime Systems",
-    "System Design"
-  ],
-  mindset: "Build practical products, not just tutorial projects."
-};
-```
+I'm a final-year **Software Engineering student at the University of Information Technology (VNU-HCM)**, interested in building reliable full-stack and backend systems.
 
-I enjoy building complete software systems from idea to implementation, especially projects that combine clean architecture, real-time interaction, strong database design and trustworthy verification.
+My recent work focuses on **Java, Spring Boot, React, PostgreSQL, Redis, and WebSocket**, with hands-on experience taking applications from system design and API contracts to implementation, testing, containerization, and deployment.
 
-My current focus is becoming a software engineer who can design, build and explain production-ready systems end-to-end.
+I'm particularly interested in:
+
+* Backend & full-stack engineering
+* Software architecture and API design
+* Real-time and event-driven systems
+* Database design and caching
+* Testing, debugging, and maintainable software
+* Building production-minded systems end to end
 
 ---
 
-## 🎯 Current Focus
-
-- ⚙️ Backend development with **NestJS**, **Spring Boot**, **REST API**, **WebSocket**
-- 📱 Mobile development with **Flutter** and **Android**
-- 🗄️ Database design with **PostgreSQL**, **MySQL**, **Supabase**, **Prisma**
-- ⛓️ Blockchain application development with **Solidity**, **Hardhat**, **Ethers.js**
-- 🧠 System design, authentication, real-time communication and scalable architecture
-- 🌱 Preparing for software engineering internship opportunities
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white)
 
-### Backend
+### Backend & Systems
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
-### Frontend & Mobile
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 
-### Database & Infrastructure
+### Data & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### Blockchain
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logo=ethereum&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### PulseLink — Real-Time Social Messaging Platform
 
-### 🎮 BrainBattle
+**Java • Spring Boot • React • PostgreSQL • Redis • WebSocket**
 
-**Adaptive Language Learning Platform with Real-time Battle and Blockchain Reward Verification**
+A modular full-stack messaging platform designed around real-time communication, maintainable backend boundaries, and end-to-end application development.
 
-A learning platform that combines adaptive learning, real-time quiz battles, ranking, reward calculation and blockchain-based reward verification.
+**Engineering highlights**
 
-**Highlights**
+* Designed REST API contracts, database models, backend boundaries, and real-time communication flows
+* Implemented authentication and social relationship workflows
+* Built direct and group messaging with WebSocket-based real-time communication
+* Implemented notifications, moderation, search, and private media workflows
+* Used Redis for real-time system concerns and application state
+* Tested and containerized the application with Docker
+* Deployed the React frontend, Spring Boot API, and PostgreSQL database
 
-- Supabase authentication and profile flow
-- NestJS microservices architecture
-- Redis-based matchmaking
-- WebSocket battle engine
-- Ranking, leaderboard and reward system
-- Blockchain reward verification
-- Flutter mobile app
-- Next.js web admin dashboard
-
-**Tech Stack**
-
-`NestJS` `Prisma` `Supabase` `PostgreSQL` `Redis` `Flutter` `Next.js` `Solidity`
-
-</td>
-<td width="50%">
-
-### ⛓️ DEX AMM Solidity
-
-**Decentralized Exchange based on Automated Market Maker model**
-
-A blockchain project implementing a DEX with liquidity pools, LP tokens, swap logic, staking rewards and role-based operation flows.
-
-**Highlights**
-
-- ERC-20 token implementation
-- Liquidity pool and LP token logic
-- Constant product AMM model
-- Swap with slippage protection
-- Staking reward mechanism
-- Admin, operator and auditor roles
-- Evidence verification and transaction tracing
-
-**Tech Stack**
-
-`Solidity` `Hardhat` `Ethers.js` `React` `IPFS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 JobNest
-
-**Full-stack Recruitment Platform**
-
-A job portal supporting candidates, employers and admins with authentication, job posting, CV management and moderation workflows.
-
-**Highlights**
-
-- Candidate profile and CV upload
-- Employer company profile
-- Job posting and application flow
-- Admin moderation dashboard
-- Authentication and authorization
-- Clean full-stack architecture
-
-**Tech Stack**
-
-`Spring Boot` `React` `PostgreSQL` `JWT` `Docker`
-
-</td>
-<td width="50%">
-
-### 🏥 Decentralized Health Records DApp
-
-**Blockchain-based Health Record Management System**
-
-A decentralized application for managing and verifying health records using smart contracts and backend API integration.
-
-**Highlights**
-
-- Smart contract-based record verification
-- Backend API integration
-- Frontend dashboard
-- Local Ethereum blockchain setup
-- Role-based record access concept
-
-**Tech Stack**
-
-`Vyper` `FastAPI` `React` `Geth` `Blockchain`
-
-</td>
-</tr>
-</table>
+**Links:** [Repository](https://github.com/NguyenTruongNgocHan/pulselink) • [Live Demo](https://pulselink-iota.vercel.app)
 
 ---
 
-## 🧠 What I Care About
+### BrainBattle — Adaptive Learning & Real-Time Battle Platform
 
-```txt
-Clean Architecture        ███████████████████░░   90%
-Backend Development       ████████████████████░   95%
-Mobile Development        ██████████████████░░░   85%
-Blockchain Development    █████████████████░░░░   80%
-Database Design           ███████████████████░░   90%
-UI/UX Product Thinking    ████████████████░░░░░   75%
-```
+**Flutter • NestJS • Redis • Supabase • Solidity**
+
+A team project combining adaptive learning with synchronized real-time battles and tokenized reward mechanisms.
+
+**My contributions**
+
+* Owned the **Battle + Reward** track from system design to implementation
+* Designed 1v1 and 3v3 battle flows, scoring, matchmaking, match state, and persistence
+* Built real-time battle synchronization using **Redis and WebSocket**
+* Designed the reward flow connecting battle results with smart contracts
+* Co-developed the end-to-end platform in a two-person team
+* Extended the system with tokenized battle rewards and adaptive learning mechanisms
+
+**Repository:** [brainbattle-platform/brainbattle-battle](https://github.com/brainbattle-platform/brainbattle-battle)
 
 ---
 
-## 📊 GitHub Statistics
+### DEX Automated Market Maker
+
+**React • Solidity • Hardhat**
+
+A full-stack decentralized exchange implementing the constant-product automated market maker model.
+
+**Engineering highlights**
+
+* Implemented token swaps and liquidity provision
+* Built LP token minting and burning flows
+* Implemented staking rewards and on-chain activity tracking
+* Added fee calculation, slippage protection, and transaction deadlines
+* Tested liquidity and smart-contract edge cases
+* Integrated MetaMask and contract ABIs with the React frontend
+* Integrated IPFS-based evidence workflows
+
+**Repository:** [dex-amm-solidity](https://github.com/NguyenTruongNgocHan/dex-amm-solidity)
+
+---
+
+## Research
+
+### UIT Student Scientific Research Program — Principal Investigator
+
+Leading **BrainBattle**, a university-funded research project exploring a tokenized gamified language-learning ecosystem with:
+
+* Real-time competitive learning
+* Adaptive learning mechanisms
+* Smart-contract-based rewards
+* Battle tokenomics
+* Testnet prototypes for transparent and verifiable learning rewards
+
+---
+
+## Currently Focusing On
+
+* Deepening my **Java & Spring Boot** backend engineering skills
+* Designing maintainable REST APIs and modular application architectures
+* Building reliable **real-time systems with WebSocket and Redis**
+* Improving testing, debugging, and deployment practices
+* Developing end-to-end features across **Spring Boot + React**
+* Preparing for Software Engineering / Backend / Full-stack opportunities
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NguyenTruongNgocHan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTruongNgocHan&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenTruongNgocHan&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NguyenTruongNgocHan&show_icons=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTruongNgocHan&layout=compact&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Education
 
-<div align="center">
+**University of Information Technology — VNU-HCM**
+Bachelor of Software Engineering • 2023 – Present
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTruongNgocHan&theme=tokyo-night&hide_border=true&area=true" />
+**GPA:** 8.66 / 10
 
-</div>
+Selected coursework:
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenTruongNgocHan&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTruongNgocHan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NguyenTruongNgocHan/NguyenTruongNgocHan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
----
-
-## 📌 Repository Pinning Suggestion
-
-For the best portfolio impression, pin repositories in this order:
-
-1. `brainbattle-battle`
-2. `brainbattle-auth`
-3. `dex-amm-solidity`
-4. `JobNest` or your main job portal repository
-5. `music-player-android`
-6. `dhr-dapp`
-
-This tells a clean story: **Backend Realtime → Auth → Blockchain → Full-stack → Mobile → DApp**.
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ngochannt1904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngochannt1904@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-NguyenTruongNgocHan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenTruongNgocHan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ngochan19042005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngochan19042005/)
-
-</div>
+* Software Architecture — **9.8**
+* Software Testing — **9.5**
+* Java Programming — **9.4**
+* Software Requirements Engineering — **9.3**
+* Cloud Computing — **8.7**
+* Object-Oriented Software Development — **8.7**
+* Data Structures & Algorithms — **8.4**
 
 ---
 
 <div align="center">
 
-### ⭐ Building systems that are useful, scalable and trustworthy.
+### Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:ff4ecd&height=120&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen_Truong_Ngoc_Han-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ngochan19042005/)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenTruongNgocHan-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NguyenTruongNgocHan)
+
+**Software Engineering • Backend • Full-stack • Real-time Systems**
 
 </div>
-
-<!--
-============================================================
-OPTIONAL: SNAKE ANIMATION SETUP
-============================================================
-
-1. In your profile repo NguyenTruongNgocHan/NguyenTruongNgocHan, create:
-   .github/workflows/snake.yml
-
-2. Paste this:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: NguyenTruongNgocHan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Go to Actions tab, run workflow manually once.
-
-============================================================
-PROFILE README SETUP
-============================================================
-
-1. Create a public repository named exactly:
-   NguyenTruongNgocHan
-
-2. Add this README.md to that repository.
-
-3. Update LinkedIn link after you have your real LinkedIn profile URL.
-
-4. Pin your strongest repositories.
-
-============================================================
--->
